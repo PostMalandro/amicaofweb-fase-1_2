@@ -54,4 +54,4 @@ Ou abrir o arquivo **index.html** no navegador.
 👤 Autor
 
  Rodrigo Brandão Farias Mineiro 
-Curso de Análise e Desenvolvimento de Sistemas — PUCRS
+- Curso de Análise e Desenvolvimento de Sistemas — PUCRS
