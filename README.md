@@ -24,7 +24,7 @@ Ou abrir o arquivo **index.html** no navegador.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
- 🚀 O que foi adicionado na Fase 2
+ 🐱 O que foi adicionado na Fase 2
 
 ● Bootstrap adicionado ao projeto (menu responsivo + carrossel).  
 ● Carrossel de imagens na área de destaques.  
