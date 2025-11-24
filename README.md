@@ -30,7 +30,6 @@ Ou abrir o arquivo **index.html** no navegador.
 ● Carrossel de imagens na área de destaques.  
 ● CSS próprio (style.css) para complementar o layout.  
 ● JavaScript (script.js) com:
-    
    ➤Saudação automática que muda conforme o horário do dia  
    ➤Confirmação do cadastro do cliente e do pet  
    ➤Confirmação do agendamento  
