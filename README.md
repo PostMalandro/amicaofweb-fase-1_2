@@ -15,30 +15,30 @@
  ● Estrutura básica do site em HTML puro.
  ● Cabeçalho com nome do petshop e navegação.
  ● Três categorias de produtos (Acessórios, Rações e Higiene/Limpeza), cada uma com duas opções.
- ●Serviços de banho e tosa com preços com e sem tele-busca.
- ●Rodapé com informações e autoria.
+ ● Serviços de banho e tosa com preços com e sem tele-busca.
+ ● Rodapé com informações e autoria.
 
 🐾 O que foi adicionado na Fase 2
 
- ●Bootstrap adicionado ao projeto (menu responsivo + carrossel).
- ●Carrossel de imagens na área de destaques.
- ●CSS próprio (style.css) para complementar o layout.
- ●JavaScript (script.js) com:
+ ● Bootstrap adicionado ao projeto (menu responsivo + carrossel).
+ ● Carrossel de imagens na área de destaques.
+ ● CSS próprio (style.css) para complementar o layout.
+ ● JavaScript (script.js) com:
   -Saudação automática que muda conforme o horário do dia
   -Confirmação de cadastro do cliente e do pet
   -Confirmação do agendamento
- ●Formulário de cadastro (cliente + pet) com vários tipos de campos (text, email, number, radio, checkbox, select…).
- ●Formulário de agendamento com escolha do serviço, método de atendimento, data e horário.
- ●Arquivo de ajuda (AJUDA_FASE2.txt) explicando o funcionamento do sistema.
- ●Melhorias de acessibilidade, como uso de alt nas imagens, labels e aria-live.
+ ● Formulário de cadastro (cliente + pet) com vários tipos de campos (text, email, number, radio, checkbox, select…).
+ ● Formulário de agendamento com escolha do serviço, método de atendimento, data e horário.
+ ● Arquivo de ajuda (AJUDA_FASE2.txt) explicando o funcionamento do sistema.
+ ● Melhorias de acessibilidade, como uso de alt nas imagens, labels e aria-live.
 
 📂 Arquivos principais
  
- ●index.html — página principal com todo o conteúdo.
- ●style.css — estilos próprios do projeto.
- ●script.js — código JavaScript com as interações.
- ●AJUDA_FASE2.txt — arquivo de ajuda explicado pelo aluno.
- ●Pasta imagens/ — contém as imagens usadas no site.
+ ● index.html — página principal com todo o conteúdo.
+ ● style.css — estilos próprios do projeto.
+ ● script.js — código JavaScript com as interações.
+ ● Ajuda.txt — arquivo de ajuda explicado pelo aluno.
+ ● Pasta imagens/ — contém as imagens usadas no site.
 
 👤 Autor
 
